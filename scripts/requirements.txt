@@ -1,0 +1,12 @@
+# Xhungus Python Dependencies
+#
+# This project primarily uses Python standard library.
+# No external dependencies required for core functionality.
+#
+# Python 3.8+ required for:
+# - pathlib
+# - zipfile
+# - json
+# - datetime
+# - hashlib
+# - argparse
