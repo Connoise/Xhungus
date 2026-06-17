@@ -1,5 +1,10 @@
 # Xhungus Quick Start Guide
 
+> ⚠️ **Retired.** Xhungus is superseded by
+> [Kani-miso](https://github.com/Connoise/Kani-miso). This guide is kept for
+> historical reference only — see [`README.md`](README.md) and
+> [`SALVAGE-FOR-KANI-MISO.md`](SALVAGE-FOR-KANI-MISO.md).
+
 ## What You Just Built
 
 A fully functional Twitter-to-Obsidian pipeline that:
